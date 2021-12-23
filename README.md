@@ -1,12 +1,12 @@
 -Portugues-
 - 👋 Olá, eu sou o @Igor-Yngvi
 - 👀 estou interessado em desenvolver as coisas que aprendi e aprender o que ainda não sei, pois o caminho do fracasso é a ignorância
-- �🌱 estou aprendendo a programar 
+- 🌱 estou aprendendo a programar 
 - 💞️ Eu estou procurando colaborar em tudo que puder ajudar 
 -English-
 - 👋 Hi, I’m @Igor-Yngvi
 - 👀 I’m interested in develop the things I have learned and learn what I do not yet know, for the path of failure is ignorance
-- 🌱'm learning to program
+- 🌱I'm learning to program
 - 💞️ I'm looking to collaborate on anything i can to help
 -Espanhol-
 - 👋 hola, soy el @Igor-Yngvi
