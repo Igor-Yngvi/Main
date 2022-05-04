@@ -2,7 +2,7 @@
 Sendo apaixonado por aprender e descobrir mais sobre esse mundo e de outos possiveis :)
  ##
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Igor-Yngvi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-Yngvi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Yngvi&layout=compact&langs_count=7&theme=dark"/>
 </div>
