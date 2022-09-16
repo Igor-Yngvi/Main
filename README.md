@@ -1,4 +1,4 @@
-## Oiii eu sou a Igor Henrique da Silva, desenvolvedor de conteúdo de programação.
+## Oiii eu sou a Igor Henrique da Silva, desenvolvedor de aplicações, programas, software.
 Sendo apaixonado por aprender e descobrir mais sobre esse mundo e de outos possiveis :)
  ##
 <div align="center">
